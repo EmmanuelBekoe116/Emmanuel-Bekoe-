@@ -1,0 +1,37 @@
+ /* Reset some default styles for better consistency across browsers */
+body, h1, ul, li, p, a {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Style the link list */
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  font-size: 18px;
+}
+css
+a {
+ color: blue;
+ text-decoration: none;
+}
+
+a:hover {
+ color: red;
+ text-decoration: underline;
+}

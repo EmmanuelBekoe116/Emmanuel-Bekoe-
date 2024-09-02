@@ -1,0 +1,31 @@
+.category {
+    background-color: ;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.tool {
+    margin-bottom: 20px;
+}
+
+.tool img {
+    max-width: 400px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+.tool h3 {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.tool p {
+    line-height: 1.5;
+    font-size: 16px;
+}
+p{
+    line-height: 1.5;
+    font-size: 16px;
+}
